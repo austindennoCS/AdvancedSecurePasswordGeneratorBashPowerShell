@@ -1,5 +1,6 @@
-Disclaimer
-This Secure Password Generator is a PowerShell script intended for educational and convenience purposes only. While it generates strong, random passwords, it should not be solely relied upon for securing sensitive accounts or data. Users are encouraged to follow best practices for password management, such as using unique passwords for different accounts, enabling two-factor authentication where available, and regularly updating passwords. The developers of this script do not assume any responsibility for the security of passwords generated using this tool. Always use additional security measures to protect sensitive information.
+<h2>Disclaimer</h2>
+<b>This Secure Password Generator is a PowerShell script intended for educational and convenience purposes only. While it generates strong, random passwords, it should not be solely relied upon for securing sensitive accounts or data. Users are encouraged to follow best practices for password management, such as using unique passwords for different accounts, enabling two-factor authentication where available, and regularly updating passwords. The developers of this script do not assume any responsibility for the security of passwords generated using this tool. Always use additional security measures to protect sensitive information.</b>
+
 
 <h1 id="top">Secure Password Generator - PowerShell Script</h1>
 
